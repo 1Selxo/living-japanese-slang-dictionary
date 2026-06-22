@@ -1,5 +1,22 @@
 [
     {
+        "term": "AI臭い",
+        "readings": [
+            "えーあいくさい"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=24144&preview=true#Chap",
+        "type": [
+            "い Adjective"
+        ],
+        "meaning": [
+            "Text or image which gives off the feeling of having been produced by AI rather than humans"
+        ],
+        "example": [
+            "このアーテイストの作品がいつもＡＩ臭いのでリムった (This artist’s works always feel AI generated to me so I unfollowed them)"
+        ],
+        "note": []
+    },
+    {
         "term": "AIる",
         "readings": [
             "あいる",
@@ -756,6 +773,23 @@
         ],
         "example": [
             "「昨日ね、元カレが家に遊びに来て…」「あ、察し」(“Yesterday my ex-boyfriend came over…” “Ah, say no more.”)"
+        ],
+        "note": []
+    },
+    {
+        "term": "朝ラー",
+        "readings": [
+            "あさらー"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=24144&preview=true#Onaniwife",
+        "type": [
+            "Noun, Verb via +する"
+        ],
+        "meaning": [
+            "Ramen that is eaten in the morning, often made from a less heavier (and/or more fish-based) broth than standard ramen"
+        ],
+        "example": [
+            "朝ラーをするのが変だと思ったが、やってみたら直ぐ好きになった (I thought eating ramen in the morning was odd, but once I tried it I liked it right away)"
         ],
         "note": []
     },
@@ -2182,6 +2216,23 @@
         "note": []
     },
     {
+        "term": "オシガマ",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=24144&preview=true#Pee",
+        "type": [
+            "Noun, Verb via +する"
+        ],
+        "meaning": [
+            "To hold in your pee"
+        ],
+        "example": [
+            "家に着くまでオシガマできたが大変だった (I was able to hold it until I got home, but it wasn’t easy)"
+        ],
+        "note": [
+            "Often phrased as オシガマ大会 or オシガマ選手権. The poop version is ウンガマ."
+        ]
+    },
+    {
         "term": "推し事",
         "readings": [
             "おしごと"
@@ -2839,6 +2890,23 @@
         "note": []
     },
     {
+        "term": "解釈違い",
+        "readings": [
+            "かいしゃくちがい"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=24144&preview=true#Yureallyneedtoreadthis",
+        "type": [
+            "Noun, Verb via +する"
+        ],
+        "meaning": [
+            "To view a character’s personality, traits, or motivations differently from other fans, depiction in a media product (e.g., an anime representation of a manga character) or even the author."
+        ],
+        "example": [
+            "解釈違いはよくあることだよ、怒らないでね。(Viewing a character differently is common, don’t get upset about it)"
+        ],
+        "note": []
+    },
+    {
         "term": "開示だな",
         "readings": [
             "かいじだな"
@@ -2903,6 +2971,23 @@
         ],
         "example": [
             "ピザをナイフとフォークで食べてまじで蛙化現象 (They ate pizza with a knife and fork and I was like ‘oh god I can’t be with this person’)"
+        ],
+        "note": []
+    },
+    {
+        "term": "顔ない",
+        "readings": [
+            "かおない"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=24144&preview=true#Noface",
+        "type": [
+            "Sentence final statement"
+        ],
+        "meaning": [
+            "Overwhelmed with emotion, originally negative relating to embarrassment or sadness. Over time, has seen use similar to ~てしぬ in just expressing strong emotion of any type."
+        ],
+        "example": [
+            "スコアが低すぎて顔ない (I’m so ashamed of my test score)"
         ],
         "note": []
     },
@@ -4794,6 +4879,23 @@
         "note": []
     },
     {
+        "term": "恋バナ",
+        "readings": [
+            "こいばな"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=24144&preview=true#Koibana",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "Discussion of love interests, crushes, affairs, etc., talking about things related to romance"
+        ],
+        "example": [
+            "恋バナの内容がヒートアップしたから、お酒を注文した。(Because the discussions of love lives were heating up, we ordered some booze)"
+        ],
+        "note": []
+    },
+    {
         "term": "公金チューチュー",
         "readings": [
             "こうきんちゅうちゅう"
@@ -4990,6 +5092,23 @@
         ],
         "example": [
             "あたしは固定派だと思う。少なくとも左右固定派。(I don’t allow people to mess with BL couplings, at most they can switch the partners but not if they top or bottom.)"
+        ],
+        "note": []
+    },
+    {
+        "term": "骨ウェ",
+        "readings": [
+            "こつうぇ"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=23470&preview=true#Wave",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "A body type defined by a wave outline, with prominent hips"
+        ],
+        "example": [
+            "このドレスは骨ウェに似合うけど骨ストにあまり。。。(This dress will fit women with a wave-shape well, but not a more straight body type)"
         ],
         "note": []
     },
@@ -5195,23 +5314,6 @@
         ],
         "example": [
             "オシャレな服がいっぱい！五千兆円欲しい! (There’s so much nice clothing! I want 5 quadrillion yen so I can buy it all!)"
-        ],
-        "note": []
-    },
-    {
-        "term": "骨ウェ",
-        "readings": [
-            "こつうぇ"
-        ],
-        "link": "https://wesleycrobertson.wordpress.com/?p=23470&preview=true#Wave",
-        "type": [
-            "Noun"
-        ],
-        "meaning": [
-            "A body type defined by a wave outline, with prominent hips"
-        ],
-        "example": [
-            "このドレスは骨ウェに似合うけど骨ストにあまり。。。(This dress will fit women with a wave-shape well, but not a more straight body type)"
         ],
         "note": []
     },
@@ -7812,7 +7914,9 @@
     },
     {
         "term": "チャHする",
-        "readings": "",
+        "readings": [
+            "ちゃえーち"
+        ],
         "link": "https://wesleycrobertson.wordpress.com/?p=8620#Chah",
         "type": [
             "Verb"
@@ -7837,6 +7941,23 @@
         ],
         "example": [
             "チャッピーに褒めてもらいたいのでちょっとチャピるね (I want ChatGPT to compliment me, so I’ll talk to ChatGPT a bit okay?)"
+        ],
+        "note": []
+    },
+    {
+        "term": "チャッピー構文",
+        "readings": [
+            "ちゃっぴーこうぶん"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=24144&preview=true#Chap",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "Text produced by an LLM which is filled with stereotypes of LLM-produced Japanese OR text written by a human designed to imitate LLM-produced language stereotypes."
+        ],
+        "example": [
+            "真面目に話そうとしているのでチャッピー構文をやめてくれない？(I’m trying to speak seriously with you, so can you stop replying like AI slop text?)"
         ],
         "note": []
     },
@@ -10226,6 +10347,24 @@
         "note": []
     },
     {
+        "term": "バリ３",
+        "readings": [
+            "ばりさん"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=24144&preview=true#3Bars",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "To have 3 bars of reception on your cell phone",
+            "To be in good spirits or condition"
+        ],
+        "example": [
+            "今バリ３だから調子もバリ３だよ！(Right now my phone reception is perfect so I’m feeling good!)"
+        ],
+        "note": []
+    },
+    {
         "term": "バンギャ",
         "readings": "",
         "link": "https://wesleycrobertson.wordpress.com/2022/05/28/japanese-slang-review-may-2022/#Bangya",
@@ -11951,6 +12090,21 @@
         "note": []
     },
     {
+        "term": "メカメカしい",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=24144&preview=true#Meka",
+        "type": [
+            "い adjective"
+        ],
+        "meaning": [
+            "Looking mechanical, industrial, or robotic, or being mechanical in origin (as in a problem)"
+        ],
+        "example": [
+            "主人公のメカメカしい武器がカッコイイ (The hero’s mechanical looking sword is rad)"
+        ],
+        "note": []
+    },
+    {
         "term": "めくれる",
         "readings": "",
         "link": "https://wesleycrobertson.wordpress.com/?p=22929&preview=true#Mekureru",
@@ -12477,6 +12631,25 @@
         "note": []
     },
     {
+        "term": "百合営業",
+        "readings": [
+            "ゆりえいぎょう"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=24144&preview=true#Yureallyneedtoreadthis",
+        "type": [
+            "Noun, Verb via +する"
+        ],
+        "meaning": [
+            "Lesbian queerbating, to act as though you are in a relationship with a woman or to depict two women as potentially romantically interested in one another in art despite no actual intent for romantic acts."
+        ],
+        "example": [
+            "あの声優の百合営業にうんざり (I’m tired of that voice actress pretending to be interested in women to gain fans)"
+        ],
+        "note": [
+            "BL営業 is the male version, ビジネス百合 is a synonym."
+        ]
+    },
+    {
         "term": "百合デート",
         "readings": [
             "ゆりでーと"
@@ -12657,6 +12830,26 @@
             "四つ耳ヘッドホンを買った (I bought headphones with animal ears on top)"
         ],
         "note": []
+    },
+    {
+        "term": "嫁ニー",
+        "readings": [
+            "よめにい"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=24144&preview=true#Onaniwife",
+        "type": [
+            "Noun, Verb via +する"
+        ],
+        "meaning": [
+            "To masturbate to images or thoughts of your wife",
+            "The restaurant owner who created the term 嫁ニー (e.g., his nickname)"
+        ],
+        "example": [
+            "嫁ニーするのが偉いと思う人もキモいと思う人もいる。(There are people who think it’s a honorable to use your wife as masturbation material, and those who think it’s gross."
+        ],
+        "note": [
+            "While less common, 夫ニー and 旦那ニー have been used."
+        ]
     },
     {
         "term": "よわよわ",
