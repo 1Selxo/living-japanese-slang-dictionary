@@ -636,6 +636,21 @@
         "note": []
     },
     {
+        "term": "ｱｰｳ",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=24744&preview=true#Au",
+        "type": [
+            "Utterance"
+        ],
+        "meaning": [
+            "A cry, usually as in the kind made by a kitten or a baby with some kind of (sad/stressed) emotionality, but also potentially a breathy gasp"
+        ],
+        "example": [
+            "See https://www.tiktok.com/@vincilucky777/video/7612587356268301586 or https://www.instagram.com/reels/DYAIAc4k0R-/"
+        ],
+        "note": []
+    },
+    {
         "term": "青木まりこ現象",
         "readings": [
             "あおきまりこげんしょう"
@@ -888,6 +903,21 @@
         ],
         "example": [
             "この政治のほうがいいなんて、あなたの感想ですね。(You say this politician is better but like, that’s just your opinion, man.)"
+        ],
+        "note": []
+    },
+    {
+        "term": "アニオリ",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=24744&preview=true#Aniori",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "Contents of an anime which are not present in its source material, including characters, plot points, or anything else."
+        ],
+        "example": [
+            "この神シーンはアニオリでびっくりした。(I was surprised to find out that this famous scene was original to the anime)"
         ],
         "note": []
     },
@@ -2441,7 +2471,7 @@
         "readings": "",
         "link": "https://wesleycrobertson.wordpress.com/2021/10/30/japanese-slang-review-october-2021/#PrettySky",
         "type": [
-            "Phrase, noun"
+            "Phrase, Noun"
         ],
         "meaning": [
             "A state of shock, surprise, or stress where you are unable to think",
@@ -2454,6 +2484,21 @@
         "note": [
             "おそらきたない is instead used when you do get what you want"
         ]
+    },
+    {
+        "term": "おぢアタック・おじアタック",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=24744&preview=true#Ojiata",
+        "type": [
+            "Noun, Verb via +する"
+        ],
+        "meaning": [
+            "An older man hitting on a younger woman who is not interested, especially via inappropriate channels or contexts (e.g., work chats); in the verb form, this is to do the inappropriate contact"
+        ],
+        "example": [
+            "仕事の後の飲み会でボスからのおぢアタックを食らってしまった (My boss hit on my at an after-work drinking function)"
+        ],
+        "note": []
     },
     {
         "term": "おつハムニダ",
@@ -2522,6 +2567,21 @@
         "note": []
     },
     {
+        "term": "おててないない",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=9387#Nohands",
+        "type": [
+            "Noun, Verb via +する"
+        ],
+        "meaning": [
+            "When a small, cute animal, especially but not always a cat, sits or lies flat with its front legs hidden under its belly"
+        ],
+        "example": [
+            "うさちゃんがおててないないできた (The bunny did the cute no-hands sitting thing)"
+        ],
+        "note": []
+    },
+    {
         "term": "オタサーの姫",
         "readings": [
             "おとさーのひめ"
@@ -2535,21 +2595,6 @@
         ],
         "example": [
             "オタサーの姫って言われたんだけどそれってあのあいつの偏見に過ぎないじゃん？(I was mocked for being a tease but that’s just his damn mindset.)"
-        ],
-        "note": []
-    },
-    {
-        "term": "おててないない",
-        "readings": "",
-        "link": "https://wesleycrobertson.wordpress.com/?p=9387#Nohands",
-        "type": [
-            "Noun, Verb via +する"
-        ],
-        "meaning": [
-            "When a small, cute animal, especially but not always a cat, sits or lies flat with its front legs hidden under its belly"
-        ],
-        "example": [
-            "うさちゃんがおててないないできた (The bunny did the cute no-hands sitting thing)"
         ],
         "note": []
     },
@@ -2622,6 +2667,21 @@
         "note": [
             "こんにちぎゃ and こんばんぎゃ also exist for different times of day"
         ]
+    },
+    {
+        "term": "おまいつ",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=24744&preview=true#Omaitsu",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "A shortening of お前はいつもいるな, used to refer to regulars at a particular venue or fans of a particular idol who always show up at their lives; quite often used with contempt towards the おまいつ"
+        ],
+        "example": [
+            "一人のうるさいおまいつより百人の静かなファンの方が儲かるよ。(You make more money from 100 quiet fans than one loud obsessed one.)"
+        ],
+        "note": []
     },
     {
         "term": "お前は今日何したんだよ",
@@ -4017,6 +4077,65 @@
         "note": []
     },
     {
+        "term": "キメる",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=24744&preview=true#Gochimiya",
+        "type": [
+            "Verb"
+        ],
+        "meaning": [],
+        "example": [
+            "To do drugs, to get high",
+            "しゃぶをキメた人がうろうろしている (Someone high on meth is wandering around)"
+        ],
+        "note": []
+    },
+    {
+        "term": "キメサポ",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=24744&preview=true#Gochimiya",
+        "type": [
+            "Noun, Verb via +する"
+        ],
+        "meaning": [
+            "Support for getting high, usually involving having sex while high with someone in exchange for cash"
+        ],
+        "example": [
+            "キメサポをしてくれる人捜しているけど大阪にいる？(Looking for someone to give me cash to get high with you and have sex in Osaka, anyone down?)"
+        ],
+        "note": []
+    },
+    {
+        "term": "キメセク",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=24744&preview=true#Gochimiya",
+        "type": [
+            "Noun, Verb via +する"
+        ],
+        "meaning": [
+            "To have sex while high"
+        ],
+        "example": [
+            "売春婦とキメセクをしている最中に逮捕された俳優が刑務所から出た。(The actor arrested while having sex while high with a sex worker left jail.)"
+        ],
+        "note": []
+    },
+    {
+        "term": "キメトモ",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=24744&preview=true#Gochimiya",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "Someone you get high with, often someone who will get you high in exchange for sex"
+        ],
+        "example": [
+            "キメトモがもういないのでブツを自分で買うしかない (I don’t have any drug-friends-with-benefits anymore so I have to buy them myself)"
+        ],
+        "note": []
+    },
+    {
         "term": "決めの問題",
         "readings": [
             "きめのもんだい"
@@ -5301,6 +5420,21 @@
         "note": []
     },
     {
+        "term": "ゴチミヤ",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=24744&preview=true#Gochimiya",
+        "type": [
+            "Noun, Verb via する"
+        ],
+        "meaning": [
+            "To give someone drugs in exchange for sex (while high) and then give them extra drugs after to take home"
+        ],
+        "example": [
+            "売人とのゴチミヤ最高 (I love sex-while-high in exchange for drugs with my dealer)"
+        ],
+        "note": []
+    },
+    {
         "term": "五千兆円欲しい",
         "readings": [
             "ごせんちょうえんほしい"
@@ -6022,6 +6156,21 @@
         ],
         "example": [
             "新エピソードが出たと聞いてちょっとワクワクし始めたが、実は終段幻覚だった (I heard a new episode came out so I got a bit excited, but it was just something made up by fans)"
+        ],
+        "note": []
+    },
+    {
+        "term": "シュバる",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=24744&preview=true#ShubaShuba",
+        "type": [
+            "Verb"
+        ],
+        "meaning": [
+            "To appear somewhere suddenly, especially (but not exclusively) an otaku showing up to give unwanted commentary on a subject; often used in a way that shows distaste towards the thing that appeared."
+        ],
+        "example": [
+            "スレにオタクがたくさんシュバってきたので消した (A lot of nerds showed up to comment on the thread so I deleted it)"
         ],
         "note": []
     },
@@ -7336,6 +7485,23 @@
         "note": [
             "他グル on its own just means “another group”, while 担 means “fan of”, used in phrases like [name]担, 誰担 (who do you like), グループ担 and オール担 (both meaning fan of a whole group), オンリー担 (fan of one group member only)"
         ]
+    },
+    {
+        "term": "タゴサク構文",
+        "readings": [
+            "たごさくこうぶん"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=24744&preview=true#Tago",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "A copy-pasta style text template where you state that you are going to do something and then give the reason why across two simple sentences."
+        ],
+        "example": [
+            "タゴサク構文の例文を書きます。例文が必要ですから。(I will write an example of Tagosaku-style Japanese. Because an example is required.)"
+        ],
+        "note": []
     },
     {
         "term": "助けて",
@@ -10683,6 +10849,24 @@
         "note": []
     },
     {
+        "term": "びっくりした、〇〇かと思った",
+        "readings": [
+            "びっくりした",
+            "〇〇かとおもった"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=24744&preview=true#Surprise",
+        "type": [
+            "Phrase"
+        ],
+        "meaning": [
+            "An ironic meme phrase used to reply to an image or statement, wherein you fill the 〇〇 with something that is part of the actual content of what you are replying to, pretending that the thing is not actually there"
+        ],
+        "example": [
+            "びっくりした、これが例文だと思った。 (Oh, what a shock. I thought this was an example sentence.)"
+        ],
+        "note": []
+    },
+    {
         "term": "微レ存",
         "readings": [
             "びれそん"
@@ -12175,6 +12359,23 @@
         "note": []
     },
     {
+        "term": "めじるしチャーム・めじるしアクセサリー",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=24744&preview=true#Mejirushi",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "Small charms, often with a plastic ring, which you can attach to something to indicate that it belongs to you and/or differentiate it from similar items owned by others. Often purchased in gatcha machines."
+        ],
+        "example": [
+            "友だちと同じめじるしチャームを買ったので困っている (I got the same charm as my friend so we can’t tell our items apart)"
+        ],
+        "note": [
+            "Can be written as 目印 but this is less common."
+        ]
+    },
+    {
         "term": "滅なんだけど",
         "readings": [
             "めつなんだけど"
@@ -12452,6 +12653,23 @@
         ],
         "example": [
             "やっとこのキャラの餅武器を完凸した! (I finally max-leveled this character’s signature weapon!)"
+        ],
+        "note": []
+    },
+    {
+        "term": "モテ期",
+        "readings": [
+            "もてき"
+        ],
+        "link": "",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "The period in one’s life where you are incredibly attractive to other people"
+        ],
+        "example": [
+            "人生にモテ期が三つあると言われている (It’s said that everyone has 3 periods of hotness in their lives)"
         ],
         "note": []
     },
