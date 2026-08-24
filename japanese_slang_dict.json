@@ -160,6 +160,25 @@
         "note": []
     },
     {
+        "term": "DUOる",
+        "readings": [
+            "ドゥオール"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Duo",
+        "type": [
+            "Verb"
+        ],
+        "meaning": [
+            "To play music in a duo or via a duet",
+            "To play a competitive video game (especially an FPS) with a partner",
+            "To use Duolingo to study a language"
+        ],
+        "example": [
+            "DUOった後でよく軽音部でDUOる友だちとPUBGでDUOった (After studying with Duolingo I played some team PUBG with my friend I often duet with in music club)"
+        ],
+        "note": []
+    },
+    {
         "term": "Get Wild退勤",
         "readings": [
             "ゲットワイルドたいきん"
@@ -378,6 +397,23 @@
         ],
         "example": [
             "元カノからのSMSが届いたけどこのままMHにするつもり。(I got a message from my ex boyfriend but I’m not planning to read it.)"
+        ],
+        "note": []
+    },
+    {
+        "term": "MM",
+        "readings": [
+            "エムエム"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Majimu",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "Extremely angry"
+        ],
+        "example": [
+            "今超MMだよ (I’m super pissed right now)"
         ],
         "note": []
     },
@@ -2701,6 +2737,58 @@
         "note": []
     },
     {
+        "term": "おま国",
+        "readings": [
+            "おまくに",
+            "おまこく"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Omakuni",
+        "type": [
+            "Noun, Verb via + する"
+        ],
+        "meaning": [
+            "Unavailable in someone’s country, especially a video game or media product; geoblocked"
+        ],
+        "example": [
+            "またおま国された (Once again, I can’t buy this in my country)"
+        ],
+        "note": []
+    },
+    {
+        "term": "おま語",
+        "readings": [
+            "おまご"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Omakuni",
+        "type": [
+            "Noun, Verb via + する"
+        ],
+        "meaning": [
+            "To be unavailable in one’s language"
+        ],
+        "example": [
+            "そのゲームをやりたかったがまさかのおま語でがっかり (I wanted to play that game, but I’m disappointed because it surprisingly wasn’t localized into my language)"
+        ],
+        "note": []
+    },
+    {
+        "term": "おま値",
+        "readings": [
+            "おまね"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Omakuni",
+        "type": [
+            "Noun, Verb via +する"
+        ],
+        "meaning": [
+            "A game or media product is available where you are, but at a higher price than other places"
+        ],
+        "example": [
+            "他の人がセールで買えるのに、なんで私達がまだおま値を食らったかな (Everyone else could buy it on sale, why did we once again have to pay full price?)"
+        ],
+        "note": []
+    },
+    {
         "term": "おめあり",
         "readings": "",
         "link": "https://wesleycrobertson.wordpress.com/?p=11943#Omen",
@@ -3779,6 +3867,24 @@
         "note": []
     },
     {
+        "term": "ガラガラポン",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/2023/03/18/ossan-bingo-old-man-slang-for-the-japanese-workplace/",
+        "type": [
+            "Adverb via で",
+            "Verb via する"
+        ],
+        "meaning": [
+            "To do by lottery, randomly",
+            "To start from scratch"
+        ],
+        "example": [
+            "今日の仕事をガラガラポンで決めよう (Let’s decide today’s task randomly)",
+            "全部をガラガラしないと無駄 (If we don’t start over from 0 on everything there’s nothing that can be done)"
+        ],
+        "note": []
+    },
+    {
         "term": "ガリ族",
         "readings": [
             "がりぞく"
@@ -3844,20 +3950,17 @@
         "note": []
     },
     {
-        "term": "ガラガラポン",
+        "term": "ガンブ",
         "readings": "",
-        "link": "https://wesleycrobertson.wordpress.com/2023/03/18/ossan-bingo-old-man-slang-for-the-japanese-workplace/",
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Ganbu",
         "type": [
-            "Adverb via で",
-            "Verb via する"
+            "Noun, な Adjective"
         ],
         "meaning": [
-            "To do by lottery, randomly",
-            "To start from scratch"
+            "An ugly face"
         ],
         "example": [
-            "今日の仕事をガラガラポンで決めよう (Let’s decide today’s task randomly)",
-            "全部をガラガラしないと無駄 (If we don’t start over from 0 on everything there’s nothing that can be done)"
+            "あのガンブな男が嫌だよ (That pig-faced man is no good)"
         ],
         "note": []
     },
@@ -4153,23 +4256,6 @@
         "note": []
     },
     {
-        "term": "切り替えピース",
-        "readings": [
-            "きりかえぴーす"
-        ],
-        "link": "https://wesleycrobertson.wordpress.com/?p=17818&preview=true#Peace",
-        "type": [
-            "Noun"
-        ],
-        "meaning": [
-            "A gesture done wherein you say ki-ri-ka-e, clap twice, and then say “peace” while making the peace gesture (often with both hands), used to encourage a change of vibes"
-        ],
-        "example": [
-            "元気出しましょう！はい、みんな、切り替えピースをして！せーの！ (Let’s get our mood back! Everyone, do the kirikae peace! Ready, and…!)"
-        ],
-        "note": []
-    },
-    {
         "term": "切り抜き",
         "readings": [
             "きりぬき"
@@ -4183,23 +4269,6 @@
         ],
         "example": [
             "私のライブストリームを切り抜きしている垢を見つけたら２４してください (Please report any accounts you find making/posting video clips of my live streams)"
-        ],
-        "note": []
-    },
-    {
-        "term": "金太郎飴シナリオ",
-        "readings": [
-            "きんたろうあめしなりお"
-        ],
-        "link": "https://wesleycrobertson.wordpress.com/2021/09/30/japanese-slang-review-september-2021/#Scenario",
-        "type": [
-            "Noun"
-        ],
-        "meaning": [
-            "A game which advertises important choices but in the end the ultimate game outcome/ending is pretty much the same. By extension, anything that sounds like a repeat of what has come before."
-        ],
-        "example": [
-            "一回目はちょー楽しかったが、二回目全然違うキャラをして、全然違うプレースタイルをしたのに終わり方は同じで、結局金太郎飴シナリオでめっちゃブルーになった。(The first time was fun, but the second time I tried a completely different character and play style and got the same ending so I was bummed to find out my choices didn’t actually matter.)"
         ],
         "note": []
     },
@@ -4247,68 +4316,6 @@
         ],
         "example": [
             "職場でキャピるな！ここはバーでも女子会でもない。(Stop messing around at work! This isn’t a bar or a girls’ night out.)"
-        ],
-        "note": []
-    },
-    {
-        "term": "ぎゃきゅん",
-        "readings": "",
-        "link": "https://wesleycrobertson.wordpress.com/2021/01/31/japanese-slang-review-january-2021/#Gyakyun",
-        "type": [
-            "Noun/Action"
-        ],
-        "meaning": [
-            "The opposite of the きゅん heart gesture, often done to reject it"
-        ],
-        "example": [
-            "きゅんからぎゃきゅん！(ノಠ ∩ಠ)ノ彡きゅん♡ (Bleh I don’t want your heart (ノಠ ∩ಠ)ノ彡きゅん♡)"
-        ],
-        "note": []
-    },
-    {
-        "term": "ギャランドゥ",
-        "readings": "",
-        "link": "https://wesleycrobertson.wordpress.com/?p=9387#Gyaran",
-        "type": [
-            "Noun"
-        ],
-        "meaning": [
-            "Happy trail, hair from belly to genitalia (men)"
-        ],
-        "example": [
-            "ギャランドゥが見えるよ (We can see your happy trail)"
-        ],
-        "note": [
-            "The name comes from a song (click the name to see the relevant slang review entry) so can also refer to that song"
-        ]
-    },
-    {
-        "term": "ギャルピ",
-        "readings": "",
-        "link": "https://wesleycrobertson.wordpress.com/?p=8939&preview=true#GalP",
-        "type": [
-            "Noun"
-        ],
-        "meaning": [
-            "A peace sing made with the palm facing out and the two fingers facing downwards"
-        ],
-        "example": [
-            "はい写真撮りますね。皆でギャルピ！(Taking the photo, everyone do the “gal peace” sign!)"
-        ],
-        "note": []
-    },
-    {
-        "term": "ギャルベ",
-        "readings": "",
-        "link": "https://wesleycrobertson.wordpress.com/2022/03/31/japanese-slang-review-march-2022/#Gyarube",
-        "type": [
-            "Noun"
-        ],
-        "meaning": [
-            "A born, dyed-in-the-wool gyaru"
-        ],
-        "example": [
-            "あなたはイエベ？　ブルベ？　それともギャルベ？(For make-up, are you a yellow base? A blue base? Or a gyaru-base?)"
         ],
         "note": []
     },
@@ -4429,6 +4436,23 @@
         "note": []
     },
     {
+        "term": "切り替えピース",
+        "readings": [
+            "きりかえぴーす"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=17818&preview=true#Peace",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "A gesture done wherein you say ki-ri-ka-e, clap twice, and then say “peace” while making the peace gesture (often with both hands), used to encourage a change of vibes"
+        ],
+        "example": [
+            "元気出しましょう！はい、みんな、切り替えピースをして！せーの！ (Let’s get our mood back! Everyone, do the kirikae peace! Ready, and…!)"
+        ],
+        "note": []
+    },
+    {
         "term": "キング化現象",
         "readings": [
             "きんぐかげんしょう"
@@ -4446,17 +4470,81 @@
         "note": []
     },
     {
-        "term": "ぎりはっぴー",
-        "readings": "",
-        "link": "https://wesleycrobertson.wordpress.com/?p=20984&preview=true#Giri",
+        "term": "金太郎飴シナリオ",
+        "readings": [
+            "きんたろうあめしなりお"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/2021/09/30/japanese-slang-review-september-2021/#Scenario",
         "type": [
-            "Noun, phrase"
+            "Noun"
         ],
         "meaning": [
-            "Happy all things considered"
+            "A game which advertises important choices but in the end the ultimate game outcome/ending is pretty much the same. By extension, anything that sounds like a repeat of what has come before."
         ],
         "example": [
-            "六十点しか取れなかったが、合格は合格だからぎりはっぴー (Look I only got 60 points, but a pass is a pass so I’m happy about it at the end of the day)"
+            "一回目はちょー楽しかったが、二回目全然違うキャラをして、全然違うプレースタイルをしたのに終わり方は同じで、結局金太郎飴シナリオでめっちゃブルーになった。(The first time was fun, but the second time I tried a completely different character and play style and got the same ending so I was bummed to find out my choices didn’t actually matter.)"
+        ],
+        "note": []
+    },
+    {
+        "term": "ぎゃきゅん",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/2021/01/31/japanese-slang-review-january-2021/#Gyakyun",
+        "type": [
+            "Noun/Action"
+        ],
+        "meaning": [
+            "The opposite of the きゅん heart gesture, often done to reject it"
+        ],
+        "example": [
+            "きゅんからぎゃきゅん！(ノಠ ∩ಠ)ノ彡きゅん♡ (Bleh I don’t want your heart (ノಠ ∩ಠ)ノ彡きゅん♡)"
+        ],
+        "note": []
+    },
+    {
+        "term": "ギャランドゥ",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=9387#Gyaran",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "Happy trail, hair from belly to genitalia (men)"
+        ],
+        "example": [
+            "ギャランドゥが見えるよ (We can see your happy trail)"
+        ],
+        "note": [
+            "The name comes from a song (click the name to see the relevant slang review entry) so can also refer to that song"
+        ]
+    },
+    {
+        "term": "ギャルピ",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=8939&preview=true#GalP",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "A peace sing made with the palm facing out and the two fingers facing downwards"
+        ],
+        "example": [
+            "はい写真撮りますね。皆でギャルピ！(Taking the photo, everyone do the “gal peace” sign!)"
+        ],
+        "note": []
+    },
+    {
+        "term": "ギャルベ",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/2022/03/31/japanese-slang-review-march-2022/#Gyarube",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "A born, dyed-in-the-wool gyaru"
+        ],
+        "example": [
+            "あなたはイエベ？　ブルベ？　それともギャルベ？(For make-up, are you a yellow base? A blue base? Or a gyaru-base?)"
         ],
         "note": []
     },
@@ -4476,6 +4564,36 @@
         "note": [
             "Most popular Korean foods can be verbed. I have absolute confirmation of ブルコギる, トッポキる (or トッポギる), キムチる, ビビンバる, and チヂミる"
         ]
+    },
+    {
+        "term": "ギラつく",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Giragira",
+        "type": [
+            "Verb"
+        ],
+        "meaning": [
+            "To hit on a woman, often aggressively; a near-synonym of nanpa/ナンパ"
+        ],
+        "example": [
+            "ここでナンパ師がよくギラつく (Lots of PUAs hit on girls in this area)"
+        ],
+        "note": []
+    },
+    {
+        "term": "ぎりはっぴー",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=20984&preview=true#Giri",
+        "type": [
+            "Noun, phrase"
+        ],
+        "meaning": [
+            "Happy all things considered"
+        ],
+        "example": [
+            "六十点しか取れなかったが、合格は合格だからぎりはっぴー (Look I only got 60 points, but a pass is a pass so I’m happy about it at the end of the day)"
+        ],
+        "note": []
     },
     {
         "term": "空気嫁",
@@ -5514,6 +5632,23 @@
         ],
         "example": [
             "桜に攫われそうなウケを描写した (I drew a frail bottom, as though they would be carried away by cherry blossoms)"
+        ],
+        "note": []
+    },
+    {
+        "term": "酒ギラ",
+        "readings": [
+            "さけぎら"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Giragira",
+        "type": [
+            "Noun, Verb via +する"
+        ],
+        "meaning": [
+            "To get a woman extremely drunk in order to have sex with them"
+        ],
+        "example": [
+            "彼が酒ギラをするタイプだから関わらない方がいい (He’s the type to get women plastered and take advantage of him, so stay away)"
         ],
         "note": []
     },
@@ -7323,6 +7458,26 @@
         "note": []
     },
     {
+        "term": "即堕ち or 即落ち",
+        "readings": [
+            "そくおち"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Soku",
+        "type": [
+            "Noun, Verb via +する"
+        ],
+        "meaning": [
+            "To fall in love with someone or something immediately, often after one sexual encounter",
+            "To meet someone and immediately join their side, betraying your former team",
+            "A negative payoff or karmic reward that occurs immediately, often in a “how it started / how it’s going” style known as 二コマ即堕ち",
+            "In pachinko, to enter a special bonus stage and then immediately fail"
+        ],
+        "example": [
+            "即堕ちを理解しようとしたが用途が多すぎて即堕ち (I tried learning about sokuochi but there were too many uses so I collapsed immediately)"
+        ],
+        "note": []
+    },
+    {
         "term": "粗品の呪い",
         "readings": [
             "そしなののろい"
@@ -7434,6 +7589,23 @@
         ],
         "example": [
             "彼氏に「別れよう」とメッセージしてからブロックしてターンエンド。(I messaged my BF that we were done, blocked him, and then ended my turn.)"
+        ],
+        "note": []
+    },
+    {
+        "term": "鯛男",
+        "readings": [
+            "たいおとこ"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Mo",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "A man who is unappealing romantically but wishes to graduate from this status and improve their life/romantic options"
+        ],
+        "example": [
+            "喪男と鯛男は大体違うスペースで時間を過ごす (Unpopular men who have given up on relationships and unpopular men who wish to improve their lot generally hang out in different spaces)"
         ],
         "note": []
     },
@@ -8764,6 +8936,21 @@
         "note": []
     },
     {
+        "term": "デブラー",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Deb",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "Extremely high calorie and/or fatty ramen"
+        ],
+        "example": [
+            "デブラーを二つ食べて、お腹が破裂しそうだった (I ate two bowls of fatty ramen and my stomach felt like it was going to explode)"
+        ],
+        "note": []
+    },
+    {
         "term": "デマッター",
         "readings": "",
         "link": "https://wesleycrobertson.wordpress.com/2022/09/30/japanese-slang-review-september-2022/#Dema",
@@ -9110,6 +9297,23 @@
         ],
         "example": [
             "コーヒーを落としちゃった! ドカ鬱横転チャンネルでしぬ (I dropped my coffee… chat I’m dead)"
+        ],
+        "note": []
+    },
+    {
+        "term": "毒男",
+        "readings": [
+            "どくおとこ"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Mo",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "A single man, often with little romantic history or prospects"
+        ],
+        "example": [
+            "毒男卒業おめでとう (Congrats on leaving the miserable single man lifestyle)"
         ],
         "note": []
     },
@@ -9800,6 +10004,23 @@
         ],
         "example": [
             "ねぇハドラー、お腹空いたけどこのコンビニにおいしそうな食べ物が全然残ってなくて、どうなってるの？(Hadler, I’m hungry but there’s nothing good lucking in this convenience store, what’s going on?)"
+        ],
+        "note": []
+    },
+    {
+        "term": "ネ喪",
+        "readings": [
+            "ねも"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Mo",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "A man who pretends to be an incel/unappealing to women on a website made for single men"
+        ],
+        "example": [
+            "ネ喪が増えて、喪男がサイトを使えなくなった (Due to an increase in tourists, the unattractive single men lost their website)"
         ],
         "note": []
     },
@@ -10563,6 +10784,21 @@
         "note": []
     },
     {
+        "term": "パイスラ・パイスラッシュ・π/",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Pie",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "When a person, usually a woman, has their chest emphasized by the strap on a bag, backpack, or similar"
+        ],
+        "example": [
+            "この漫画家が描くパイスラは非常にエロい (The way this manga artist draws breasts pushed up by straps is erotic)"
+        ],
+        "note": []
+    },
+    {
         "term": "白湯メイク",
         "readings": [
             "ぱいたんめいく"
@@ -10578,6 +10814,21 @@
         "note": [
             "くらげメイク, 甜妹メイク"
         ]
+    },
+    {
+        "term": "パワギラ",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Giragira",
+        "type": [
+            "Noun, Verb via +する"
+        ],
+        "meaning": [
+            "To use force to get a woman to leave a location with you in order to have sex; violent acts preceding sexual assault"
+        ],
+        "example": [
+            "ナンパ師がパワギラで逮捕された (The PUA was arrested for sexual assault)"
+        ],
+        "note": []
     },
     {
         "term": "ポイポイナイス",
@@ -11182,6 +11433,21 @@
             "犬の写真をフリ素にした (I made a meme-template out of my dog’s photo)",
             "１００いいねをゲットしたらフリ素を晒す! (If I get 100 likes I’ll share some photos of myself!)",
             "エリア２９１でフリ素するので皆さんどうぞ～ (I’m waiting in Area 291 for anyone that wants to come take photos~)"
+        ],
+        "note": []
+    },
+    {
+        "term": "フレネミー",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Friend",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "A frenemy, a friend who you have a semi-adversarial relationship with, or regularly snipe back and forth with"
+        ],
+        "example": [
+            "真理子ちゃんが「かわいいね、今日は」って、メッチャフレネミーでしょう！？ (Mariko said “you look cute… today”, she’s such a frenemy isn’t she!?)"
         ],
         "note": []
     },
@@ -11930,23 +12196,6 @@
         "note": []
     },
     {
-        "term": "回します界隈",
-        "readings": [
-            "まわしますかいわい"
-        ],
-        "link": "https://wesleycrobertson.wordpress.com/?p=20027&preview=true#Mawashi",
-        "type": [
-            "Noun"
-        ],
-        "meaning": [
-            "A trend where people record themselves saying “I’m going to pass the phone to someone who [description]” and then pass the phone to someone who then continues the “game”"
-        ],
-        "example": [
-            "回します界隈にはまっている人に回します！(I’ll hand the phone to someone who is obsessed with this phone trend!)"
-        ],
-        "note": []
-    },
-    {
         "term": "まずは、ありがとう",
         "readings": "",
         "link": "https://wesleycrobertson.wordpress.com/?p=18687&preview=true#Thanksfirst",
@@ -12020,6 +12269,21 @@
         ],
         "example": [
             "マヌかわいさがチャームポイントだ (The silly-yet-cute look is what makes it amazing)"
+        ],
+        "note": []
+    },
+    {
+        "term": "マネギラ",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Giragira",
+        "type": [
+            "Noun, Verb via +する"
+        ],
+        "meaning": [
+            "To spend money on a woman with the goal of convincing them to sleep with you"
+        ],
+        "example": [
+            "マネギラで即った (I dined her and slept with her on the first date)"
         ],
         "note": []
     },
@@ -12116,6 +12380,23 @@
         ],
         "example": [
             "彼はまじめだからそう見えないけど実はマンネだ (He’s quite pulled together so he doesn’t look it, but he’s actually the youngest)"
+        ],
+        "note": []
+    },
+    {
+        "term": "回します界隈",
+        "readings": [
+            "まわしますかいわい"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=20027&preview=true#Mawashi",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "A trend where people record themselves saying “I’m going to pass the phone to someone who [description]” and then pass the phone to someone who then continues the “game”"
+        ],
+        "example": [
+            "回します界隈にはまっている人に回します！(I’ll hand the phone to someone who is obsessed with this phone trend!)"
         ],
         "note": []
     },
@@ -12304,23 +12585,6 @@
         "note": []
     },
     {
-        "term": "飯テロ",
-        "readings": [
-            "めしてろ"
-        ],
-        "link": "https://wesleycrobertson.wordpress.com/2021/05/30/japanese-slang-review-may-2021/#Terror",
-        "type": [
-            "Noun"
-        ],
-        "meaning": [
-            "Doing things, especially posting pictures of food, that make other people hungry"
-        ],
-        "example": [
-            "彼はさ、いつもおいしそうな物を食べに行って、写真を投稿する。そんな毎日の飯テロ要らないからブロックした。(He always goes to eat delicious looking food and uploads the pictures. I can’t deal with this daily food terrorism so I blocked him.)"
-        ],
-        "note": []
-    },
-    {
         "term": "メシウマ",
         "readings": "",
         "link": "https://wesleycrobertson.wordpress.com/2022/02/28/japanese-slang-review-february-2022/#Meshimazu",
@@ -12340,6 +12604,23 @@
         "note": []
     },
     {
+        "term": "飯テロ",
+        "readings": [
+            "めしてろ"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/2021/05/30/japanese-slang-review-may-2021/#Terror",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "Doing things, especially posting pictures of food, that make other people hungry"
+        ],
+        "example": [
+            "彼はさ、いつもおいしそうな物を食べに行って、写真を投稿する。そんな毎日の飯テロ要らないからブロックした。(He always goes to eat delicious looking food and uploads the pictures. I can’t deal with this daily food terrorism so I blocked him.)"
+        ],
+        "note": []
+    },
+    {
         "term": "メシマズ",
         "readings": "",
         "link": "https://wesleycrobertson.wordpress.com/2022/02/28/japanese-slang-review-february-2022/#Meshimazu",
@@ -12355,6 +12636,23 @@
             "じゃ、晩ご飯創るよ。でもめっちゃメシマズだから期待しないで！(Okay I’ll make dinner. But I’m terrible at cooking so expect nothing!)",
             "私が失敗したのにあの奴が合格してメシマズ！(I failed but he passed? I can’t deal with this.)",
             "メシマズですみませんが今日の爆運がぁぁぁ！！！(Sorry for rubbing it in your faces but check out my luck!!!)"
+        ],
+        "note": []
+    },
+    {
+        "term": "飯もく",
+        "readings": [
+            "めしもく"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Giragira",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "To spend time with someone (usually a man) with the primary goal of free food"
+        ],
+        "example": [
+            "付き合っていないよ、飯もくだけ (I’m not dating him, just getting free meals)"
         ],
         "note": []
     },
@@ -12593,6 +12891,24 @@
         ],
         "example": [
             "オーバーサイズを買ったので萌え袖！(I bought an oversized shirt so I have cute sleeves that are too long!)"
+        ],
+        "note": []
+    },
+    {
+        "term": "喪男・喪女",
+        "readings": [
+            "もおとこ",
+            "もおんな"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25079&preview=true#Mo",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "A person who is unappealing romantically to others, usually due to a terrible attitude/personality rather than just looks – similar to being black pilled and/or an incel, although focused more on “giving up” than hostility"
+        ],
+        "example": [
+            "喪男から卒業できるかな (I wonder if I can grow out of being a black-pilled incel)"
         ],
         "note": []
     },
