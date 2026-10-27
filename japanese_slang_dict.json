@@ -862,6 +862,24 @@
         ]
     },
     {
+        "term": "明日の花火大会、１６時に駅。遅れんなよ。",
+        "readings": [
+            "あしたのはなびたいかい",
+            "じゅうろくじにえき。おくれんなよ。"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25801&preview=true#16",
+        "type": [
+            "Phrase"
+        ],
+        "meaning": [
+            "A meme phrase used to tell someone to be somewhere; the time, location, and event can be changed, but the 遅れんなよ and basic particles need to stay"
+        ],
+        "example": [
+            "明日の流行語解説、１０時にこのウェブサイト。遅れんなよ。(Japanese slang explanation tomorrow. This website at 10. Don’t be late.)"
+        ],
+        "note": []
+    },
+    {
         "term": "アタオカ",
         "readings": "",
         "link": "https://wesleycrobertson.wordpress.com/2022/12/31/japanese-slang-review-december-2022/#Ataoka",
@@ -1078,6 +1096,23 @@
         ],
         "example": [
             "タイガーズはアレンパを目指したができなかった (The Tigers aimed for a repeat victory, but couldn’t achieve it)"
+        ],
+        "note": []
+    },
+    {
+        "term": "泡姫",
+        "readings": [
+            "あわひめ"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25801&preview=true#Awahime",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "A woman who works at a soapland"
+        ],
+        "example": [
+            "昔、「泡姫」が「トルク嬢」と呼ばれた (“Bubble princesses” used to be called “Turkish princesses”)"
         ],
         "note": []
     },
@@ -2754,6 +2789,40 @@
         "note": []
     },
     {
+        "term": "おまおれ",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=25801&preview=true",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "Used when someone has the same opinions as you, “are you me?”"
+        ],
+        "example": [
+            "クラスに行かなかったのに大学卒業できた？おまおれ？(You graduated uni without going to class? Are you me?)"
+        ],
+        "note": []
+    },
+    {
+        "term": "おま環",
+        "readings": [
+            "おまかん"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25801&preview=true#Omae",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "The problem only exists on your end, rather than in the website, software, etc."
+        ],
+        "example": [
+            "私はアクセスできるのでおま環だね (I can log in so it’s a you issue)"
+        ],
+        "note": [
+            "おま環 is often used to refer to an issue that only you are experiencing, even though 俺環 also exists"
+        ]
+    },
+    {
         "term": "おま国",
         "readings": [
             "おまくに",
@@ -3225,6 +3294,23 @@
         "note": []
     },
     {
+        "term": "課金兵",
+        "readings": [
+            "かきんへい"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25801&preview=true#Kakinhei",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "People who spend a lot of money on microtransactions, whales"
+        ],
+        "example": [
+            "課金兵にいつも負けているけど、課金兵のおかげで課金せずにプレーできるのでまぁいいか (I always lose to whales, but I can play the game for free because of whales, so I guess it evens out)"
+        ],
+        "note": []
+    },
+    {
         "term": "鍵開け・鍵閉め",
         "readings": [
             "かぎあけ",
@@ -3557,7 +3643,7 @@
     {
         "term": "[NOUN]からしか摂取できない栄養がある",
         "readings": [
-            "せっしゅできないえいよう"
+            "からせっしゅできないえいよう"
         ],
         "link": "https://wesleycrobertson.wordpress.com/?p=6322#Sesshu",
         "type": [
@@ -3568,6 +3654,23 @@
         ],
         "example": [
             "ラーメンからしか摂取できない栄養がある (I’d die without ramen)"
+        ],
+        "note": []
+    },
+    {
+        "term": "借りパク",
+        "readings": [
+            "かりぱく"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25801&preview=true#Karipaku",
+        "type": [
+            "Noun, Verb via +する or +る"
+        ],
+        "meaning": [
+            "To borrow something and then never return it"
+        ],
+        "example": [
+            "兄が私のギターを借りパクしたので新しいのを父に買ってもらった。(My older brother “borrowed” my guitar and never gave it back so I got my dad to buy me a new one.)"
         ],
         "note": []
     },
@@ -4180,6 +4283,23 @@
         ]
     },
     {
+        "term": "キマシタワー",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=25801&preview=true#Kimashita",
+        "type": [
+            "Exclamation"
+        ],
+        "meaning": [
+            "A scream of excitement, especially one upon seeing yuri content"
+        ],
+        "example": [
+            "まりちゃんが雪音ちゃんに告白！キマシタワー！(Mari confessed her love to Yukine! It’s happening!)"
+        ],
+        "note": [
+            "Often written as ｷﾏｼﾀﾜｰ in half-width katakana. Can be memed on via phrases like ここにキマシタワーを建てよう, and variants like キマシタアッー!, which express joy at male-male romance where both men could be mistaken for women, also exist. See entry for full details."
+        ]
+    },
+    {
         "term": "きまZ",
         "readings": [
             "きまぜっと"
@@ -4348,6 +4468,21 @@
         ],
         "example": [
             "キャラプレをやってAさんゲット！ (I got A in the game I’m playing!)"
+        ],
+        "note": []
+    },
+    {
+        "term": "ギュン",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=25801&preview=true#Kyun",
+        "type": [
+            "Noun, Verb via +する"
+        ],
+        "meaning": [
+            "When you feel a strong sudden emotional connection; a stronger form of きゅん"
+        ],
+        "example": [
+            "推しが私を見た時にギュンした (When my bias looked at me I almost died of romantic joy)"
         ],
         "note": []
     },
@@ -8106,6 +8241,39 @@
         "note": []
     },
     {
+        "term": "チー牛",
+        "readings": [
+            "ちーぎゅう"
+        ],
+        "link": "https://wesleycrobertson.wordpress.com/?p=25801&preview=true#Cheese",
+        "type": [
+            "Noun"
+        ],
+        "meaning": [
+            "Gyudon with cheese on top",
+            "A unattractive, awkward, and/or nerdy male"
+        ],
+        "example": [
+            "チー牛がチー牛を食べている（笑）(A beta is eating beta food lol)"
+        ],
+        "note": []
+    },
+    {
+        "term": "チェケラー・チェケラ",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=25801&preview=true#Chekara",
+        "type": [
+            "Noun, Verb via +する or ＋る if in the チェケラ form"
+        ],
+        "meaning": [
+            "Check it out"
+        ],
+        "example": [
+            "おい、これをチェケラれよ (Hey, check this out)"
+        ],
+        "note": []
+    },
+    {
         "term": "チェリーピース",
         "readings": "",
         "link": "https://wesleycrobertson.wordpress.com/?p=6960#Cherry",
@@ -9000,6 +9168,21 @@
         "note": []
     },
     {
+        "term": "デニる",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=25801&preview=true#Deniru",
+        "type": [
+            "Verb"
+        ],
+        "meaning": [
+            "To go to Denny’s"
+        ],
+        "example": [
+            "最近デニっていないのでデニろうよ (We haven’t gone to Denny’s recently so let’s go)"
+        ],
+        "note": []
+    },
+    {
         "term": "デフォ",
         "readings": "",
         "link": "https://wesleycrobertson.wordpress.com/2022/11/30/japanese-slang-review-november-2022/#Defo",
@@ -9448,6 +9631,21 @@
         ],
         "example": [
             "ラーメンにするか、そばにするか決められなくて、どっちの女の子にするか迷っている110年前の絵の男みたいに首を振っている (I can’t decide on ramen or soba, I’m like that guy from the old picture swishing his head back and forth)"
+        ],
+        "note": []
+    },
+    {
+        "term": "ドトる",
+        "readings": "",
+        "link": "https://wesleycrobertson.wordpress.com/?p=25801&preview=true#Deniru",
+        "type": [
+            "Verb"
+        ],
+        "meaning": [
+            "To go to Doutor"
+        ],
+        "example": [
+            "コーヒーをやめたのでもうトドらない (I don’t go to Doutor anymore because I quit coffee)"
         ],
         "note": []
     },
